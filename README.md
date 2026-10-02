@@ -750,7 +750,7 @@ The Streamlit app reads the cleaned CSV relative to the dashboard file, while de
 - Several weather variables in the original data are normalized and require conversion before interpretation.
 - The season labels are remapped based on the observed month and temperature patterns in the dataset.
 - Manual bins are analytical convenience groups, not official transportation standards.
-- The analysis does not use predictive machine learning.
+- The analysis does not use predictive machine learning
 
 ## Author
 
